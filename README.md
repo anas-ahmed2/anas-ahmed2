@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/anasahmed2/anasahmed2/main/headergitlight.gif" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/anas-ahmed2/anas-ahmed2/main/headergitlight.gif" align="center" height="325" />
 </div>  
 
 <h1 align="center">Welcome to my Github profile</h1>
@@ -44,10 +44,10 @@
 </p>
 <br/>  
 <div align="center">
-<a href="https://github.com/anasahmed2" target="_blank">
+<a href="https://github.com/anas-ahmed2" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
-<a href="https://linkedin.com/in/anasahmed2" target="_blank">
+<a href="https://linkedin.com/in/anas-ahmed2" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  <a href="https://www.facebook.com/profile.php?id=100075532658872" target="_blank">
@@ -59,24 +59,25 @@
   <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=anasahmed2&&style=flat-square&style=for-the-badge&logo=linkedin&logoColor=white" align="center" />
+<img src="https://komarev.com/ghpvc/?username=anas-ahmed2&&style=flat-square&style=for-the-badge&logo=linkedin&logoColor=white" align="center" />
 </div>  
 
 <br/> 
 
 <h2 align="center">🏆My Github stats and Trophies:</h2>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&" alt="anasahmed2" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-ahmed2&" alt="anas-ahmed2" /></p> -->
 <div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&theme=shadow_blue&border=true&border_radius=5.1&background=transparent" alt="anasahmed2" width="600" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-ahmed2&theme=shadow_blue&border=true&border_radius=5.1&background=transparent" alt="anas-ahmed2" width="600" />
 </div>
 <br/>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=anasahmed2&show_icons=true&theme=shadow_blue&count_private=true&border=true&bg_color=3c404300" alt="anasahmed2" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api?username=anas-ahmed2&show_icons=true&theme=shadow_blue&count_private=true&border=true&bg_color=3c404300" alt="anas-ahmed2" align="center" />
 
 </div>
 <br/>
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anasahmed2&show_icons=true&locale=en&layout=compact&theme=shadow_blue&bg_color=3c404300" alt="anasahmed2" align="center" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anas-ahmed2&show_icons=true&locale=en&layout=compact&theme=shadow_blue&bg_color=3c404300" alt="anas-ahmed2" align="center" />
 </div>
 <br/>
 
